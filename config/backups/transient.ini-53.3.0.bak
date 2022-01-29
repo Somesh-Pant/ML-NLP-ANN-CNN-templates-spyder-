@@ -1,0 +1,151 @@
+[main]
+completion/size = (300, 180)
+window/position = (-8, -8)
+window/prefs_dialog_size = (1050, 530)
+window/size = (1366, 705)
+version = 53.3.0
+crash = False
+current_version = 4.0.0
+windows_style = windowsvista
+historylog_filename = C:\Users\Somesh\.spyder-py3\history.log
+window/state = 000000ff00000000fd00000001000000000000055600000265fc0200000001fc0000004300000265000000c900fffffefc0100000004fb0000001600500072006f006a0065006300740073005f006400770000000000ffffffff0000004c00fffffffb000000120045006400690074006f0072005f006400770100000000000002cb0000020900fffffffb00000024004f00750074006c0069006e0065004500780070006c006f007200650072005f006400770000000000ffffffff000000c900fffffffc000002d4000002820000017100fffffffc0200000002fc000000430000014c0000006e01000014fa000000060200000009fb00000026005600610072006900610062006c0065004500780070006c006f007200650072005f006400770100000000ffffffff0000003600fffffefb000000100050006c006f00740073005f006400770100000000ffffffff0000005800fffffefb0000000e00480065006c0070005f006400770100000000ffffffff0000002000fffffefb0000001c0042007200650061006b0070006f0069006e00740073005f006400770000000000ffffffff0000003600fffffefb0000001600500072006f00660069006c00650072005f006400770000000000ffffffff0000006500fffffefb0000001200500079006c0069006e0074005f006400770000000000ffffffff0000006500fffffefb00000016004500780070006c006f007200650072005f006400770100000000ffffffff0000003600fffffefb0000001a004f006e006c0069006e006500480065006c0070005f006400770000000000ffffffff0000002000fffffefb0000001c00460069006e00640049006e00460069006c00650073005f006400770000000000ffffffff0000005200fffffefc00000198000001100000005201000014fa000000010200000003fb000000140043006f006e0073006f006c0065005f006400770000000000ffffffff0000003600fffffefb0000002200490050007900740068006f006e0043006f006e0073006f006c0065005f006400770100000000ffffffff0000003c00fffffefb0000001a0048006900730074006f00720079004c006f0067005f006400770100000000ffffffff0000003a00fffffe000000000000026500000004000000040000000800000008fc0000000100000002000000080000001800660069006c0065005f0074006f006f006c0062006100720100000000ffffffff0000000000000000000000180065006400690074005f0074006f006f006c00620061007200000000c6ffffffff00000000000000000000001c007300650061007200630068005f0074006f006f006c006200610072000000012affffffff00000000000000000000001c0073006f0075007200630065005f0074006f006f006c0062006100720000000161ffffffff00000000000000000000001600720075006e005f0074006f006f006c00620061007201000000caffffffff00000000000000000000001a00640065006200750067005f0074006f006f006c0062006100720100000173ffffffff000000000000000000000018006d00610069006e005f0074006f006f006c006200610072010000023dffffffff00000000000000000000003200430075007200720065006e007400200077006f0072006b0069006e00670020006400690072006500630074006f0072007901000002d5ffffffff0000000000000000
+spyder_pythonpath = []
+last_visible_toolbars = ['file_toolbar', 'run_toolbar', 'debug_toolbar', 'main_toolbar', 'Current working directory']
+window/statusbar = True
+interface_language = en
+custom_cursor_blinking = 1060
+
+[main_interpreter]
+custom_interpreters_list = []
+custom_interpreter = 
+executable = C:\Users\Somesh\Anaconda3\python.exe
+
+[onlinehelp]
+zoom_factor = 0.8
+first_time = True
+
+[quick_layouts]
+place_holder = 
+names = ['Matlab layout', 'Rstudio layout', 'Vertical split', 'Horizontal split']
+order = ['Matlab layout', 'Rstudio layout', 'Vertical split', 'Horizontal split']
+active = ['Matlab layout', 'Rstudio layout', 'Vertical split', 'Horizontal split']
+layout_0/size = (1260, 740)
+layout_0/prefs_dialog_size = (745, 411)
+layout_0/is_maximized = True
+layout_0/is_fullscreen = False
+layout_0/position = (10, 10)
+layout_0/state = None
+layout_0/statusbar = True
+layout_1/size = (1260, 740)
+layout_1/prefs_dialog_size = (745, 411)
+layout_1/is_maximized = True
+layout_1/is_fullscreen = False
+layout_1/position = (10, 10)
+layout_1/state = None
+layout_1/statusbar = True
+layout_2/size = (1260, 740)
+layout_2/prefs_dialog_size = (745, 411)
+layout_2/is_maximized = True
+layout_2/is_fullscreen = False
+layout_2/position = (10, 10)
+layout_2/state = None
+layout_2/statusbar = True
+layout_3/size = (1260, 740)
+layout_3/prefs_dialog_size = (745, 411)
+layout_3/is_maximized = True
+layout_3/is_fullscreen = False
+layout_3/position = (10, 10)
+layout_3/state = None
+layout_3/statusbar = True
+layout_default/size = (1260, 740)
+layout_default/prefs_dialog_size = (745, 411)
+layout_default/is_maximized = True
+layout_default/is_fullscreen = False
+layout_default/position = (10, 10)
+layout_default/state = None
+layout_default/statusbar = True
+
+[internal_console]
+first_time = True
+
+[ipython_console]
+first_time = True
+
+[variable_explorer]
+first_time = True
+
+[editor]
+splitter_state = 000000ff00000001000000010000036101ffffffff010000000100
+recent_files = ['C:\\Users\\Somesh\\Desktop\\Machine Learning A-Z Template Folder\\Part 7 - Natural Language Processing\\Section 36 - Natural Language Processing\\Restaurant_Reviews.tsv', 'C:\\Users\\Somesh\\Desktop\\Machine Learning A-Z Template Folder\\Part 6 - Reinforcement Learning\\Section 33 - Thompson Sampling\\random_selection.py', 'C:\\Users\\Somesh\\.spyder-py3\\temp.py', 'C:\\Users\\Somesh\\.spyder-py3\\Machine learning\\models\\Upper_Cofidence_Bound(RL).py', 'C:\\Users\\Somesh\\.spyder-py3\\Machine learning\\data_preprocessing_template.py', 'C:\\Users\\Somesh\\.spyder-py3\\Machine learning\\models\\apriori_ARL.py', 'C:\\Users\\Somesh\\.spyder-py3\\Machine learning\\models\\clustering\\Agglomerative_Heirarchical_Clustering.py', 'C:\\Users\\Somesh\\.spyder-py3\\Machine learning\\models\\clustering\\k_means.py', 'C:\\Users\\Somesh\\.spyder-py3\\Machine learning\\models\\Regularization\\Ridge_Regression(LR).py', 'C:\\Users\\Somesh\\.spyder-py3\\Machine learning\\Classifier_template.py', 'C:\\Users\\Somesh\\.spyder-py3\\Machine learning\\algos\\Classifiers\\Random_Forest.py', 'C:\\Users\\Somesh\\.spyder-py3\\Machine learning\\algos\\Classifiers\\Naive_Bayes.py', 'C:\\Users\\Somesh\\.spyder-py3\\Machine learning\\algos\\Classifiers\\Kernel_SVM.py', 'C:\\Users\\Somesh\\.spyder-py3\\Machine learning\\algos\\Classifiers\\K_Nearest_Neighbors(K-NN).py', 'C:\\Users\\Somesh\\.spyder-py3\\Machine learning\\algos\\Classifiers\\Logistic_Regression_Classifier.py', 'C:\\Users\\Somesh\\Desktop\\Machine Learning A-Z Template Folder\\Part 2 - Regression\\Section 4 - Simple Linear Regression\\data_preprocessing_template.py', 'C:\\Users\\Somesh\\.spyder-py3\\Machine learning\\Regression_template.py', 'C:\\Users\\Somesh\\.spyder-py3\\Machine learning\\algos\\Regularization\\Ridge_Regression(LR).py', 'C:\\Users\\Somesh\\.spyder-py3\\Machine learning\\algos\\simple_linear_regression.py', 'C:\\Users\\Somesh\\.spyder-py3\\Machine learning\\algos\\Random_Forest_Regression.py']
+first_time = True
+filenames = ['C:\\Users\\Somesh\\Desktop\\Machine Learning A-Z Template Folder\\Part 6 - Reinforcement Learning\\Section 33 - Thompson Sampling\\random_selection.py', 'C:\\Users\\Somesh\\Desktop\\Machine Learning A-Z Template Folder\\Part 6 - Reinforcement Learning\\Section 33 - Thompson Sampling\\untitled1.py']
+layout_settings = {'hexstate': '000000ff0000000100000001000002cb00ffffffff010000000100', 'sizes': [715], 'splitsettings': [(False, 'C:\\Users\\Somesh\\Desktop\\Machine Learning A-Z Template Folder\\Part 6 - Reinforcement Learning\\Section 33 - Thompson Sampling\\untitled1.py', [3, 1])]}
+windows_layout_settings = []
+bookmarks = {}
+
+[historylog]
+first_time = False
+
+[help]
+rich_mode = True
+first_time = False
+
+[outline_explorer]
+expanded_state = {8474072659856059963: False, 8358915842690331857: True}
+first_time = True
+scrollbar_position = (0, 0)
+visibility = False
+
+[project_explorer]
+recent_projects = []
+current_project_path = None
+first_time = True
+scrollbar_position = (0, 0)
+expanded_state = None
+
+[explorer]
+first_time = True
+file_associations = {}
+
+[find_in_files]
+exclude_idx = 0
+path_history = []
+first_time = True
+
+[workingdir]
+console/fixed_directory = 
+
+[color_schemes]
+custom_names = []
+
+[run]
+breakpoints = {}
+post_mortem = False
+clear_namespace = False
+interact = False
+open_on_firstrun = False
+default/interpreter/current = True
+default/interpreter/dedicated = False
+default/interpreter/systerm = False
+default/wdir/use_script_directory = True
+default/wdir/use_cwd_directory = False
+default/wdir/use_fixed_directory = False
+default/wdir/fixed_directory = C:\Users\Somesh\Desktop\Machine Learning A-Z Template Folder\Part 2 - Regression\Section 9 - Random Forest Regression
+configurations = []
+defaultconfiguration = {}
+
+[profiler]
+max_entries = 50
+first_time = False
+
+[pylint]
+max_entries = 50
+first_time = False
+save_before = True
+
+[breakpoints]
+first_time = False
+
+[appearance]
+windows_style = windowsvista
+
